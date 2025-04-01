@@ -11,10 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaminderSingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="center">
 
-  <a href="https://www.linkedin.com/in/harvinder-kaur-413b61346"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
@@ -27,13 +24,13 @@
 <p align="center">
 
   
-  <a href="https://github.com/SaminderSingh">
-    <img alt="Profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=SaminderSingh&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <a href="https://github.com/HarveenNanda">
+    <img alt="Profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=HarveenNanda&label=Profile%20Views&color=blue&style=for-the-badge"/>
   </a>
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SaminderSingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/SaminderSingh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SaminderSingh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HarveenNanda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/HarveenNanda?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HarveenNanda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     
 </p>
 
