@@ -1,4 +1,4 @@
-<h2 align="left"># 👋 Hi, I'm Saminder Singh!<br>👩🏻‍💻 Biotechnolgist sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied MS @ RMIT University, Australia<br>🎨 Making videos about Computer Science, tech, and productivity on <br>🌷 #learninginpublic on Linkedin<br>💭 Currently learning about DevOps and its tools!</h2>
+<h2 align="left"># 👋 Hi, I'm Harveen Nanda!<br>👩🏻‍💻 Biotechnolgist sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied MS @ RMIT University, Australia<br>🎨 Making videos about Computer Science, tech, and productivity on <br>🌷 #learninginpublic on Linkedin<br>💭 Currently learning about Microbiology </h2>
 
 ###
 
